@@ -35,7 +35,24 @@ Sections
 ✔ Projects
 ✔ Contact
 
+Customization
 
+To personalize this portfolio:
+
+    Replace the placeholder images in /assets/images with your own
+
+    Update your information in index.html
+
+    Modify colors in css/styles.css
+
+    Add your projects in the projects section
+📧 Contact
+Feel free to reach out if you have any questions or suggestions:
+Email: kipronowycliff992@gmail.com
+phone: +254 115083704
+
+
+✨ Made with ❤️ by Wycliff Kiprono
 
 
 
