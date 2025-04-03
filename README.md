@@ -1,6 +1,8 @@
  HACKATHON 1: Portfolio Website
 
+ Live Demo
 
+Check out the live version: https://cliff9509.github.io/-my-portfolio-webpage/portfolio.html
 
 A responsive portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and experience.
 Features
@@ -33,9 +35,7 @@ Sections
 ✔ Projects
 ✔ Contact
 
-Live Demo
 
-Check out the live version: https://cliff9509.github.io/-my-portfolio-webpage/portfolio.html
 
 
 
